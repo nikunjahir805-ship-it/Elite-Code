@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ChevronDown, Sparkles } from 'lucide-react';
 import SyntaxHighlighter from 'react-syntax-highlighter';
-import { codeExamples, floatingCard } from '../data/codeExamples'
+import { floatingCard } from '../data/codeExamples'
 import { nightOwl } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import { codeExamples } from "../data/codeExamples";
 
