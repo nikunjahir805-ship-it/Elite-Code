@@ -5,8 +5,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="relative py-24 px-4 sm:px-6 lg:px-8 overflow-visible"
-    >
+      className="relative py-24 px-4 sm:px-6 lg:px-8 overflow-visible">
       {/* ===== Background Effects ===== */}
       <div className="absolute inset-0 pointer-events-none">
         {/* Shooting star */}
@@ -24,7 +23,7 @@ const Contact = () => {
         {/* ===== Heading ===== */}
         <div className="text-center mb-16 animate-in slide-in-from-bottom duration-700">
           <h2 className="text-5xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold">
-            <span className="bg-gradient-to-r from-white via-blue-300 to-cyan-300 bg-clip-text text-transparent">
+            <span className="bg-liner-to-r from-white via-blue-300 to-cyan-300 bg-clip-text text-transparent">
               Get in Touch
             </span>
           </h2>

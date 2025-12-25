@@ -1,11 +1,11 @@
 import React from 'react'
-import Features from './componets/Features'
-import Hero from './componets/Hero'
-import Pricing from './componets/Pricing'
-import Testimonials from './componets/Testimonials'
-import Footer from './componets/Footer'
-import Navbar from './componets/Navbar'
-import Contact from './componets/Contact'
+import Features from './components/Features'
+import Hero from './components/Hero'
+import Pricing from './components/Pricing'
+import Testimonials from './components/Testimonials'
+import Footer from './components/Footer'
+import Navbar from './components/Navbar'
+import Contact from './components/Contact'
 const App = () => {
   return (
     <div className='bg-slate-950 min-h-screen text-white overflow-hidden'>

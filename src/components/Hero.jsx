@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { ChevronDown, Sparkles } from 'lucide-react';
 import SyntaxHighlighter from 'react-syntax-highlighter';
-import { floatingCard } from '../data/codeExamples'
 import { nightOwl } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import { codeExamples } from "../data/codeExamples";
+import { codeExamples } from "../Data/codeExamples";
+import {floatingCard} from "../Data/codeExamples";
+
 
 
 const Hero = () => {
